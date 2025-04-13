@@ -1885,14 +1885,14 @@ form input.margin-l, form textarea.margin-l {
   position: absolute;
   top: 0;
   left: 3.4rem;
-  height: 100%;
+  height: 60%;
 }
 .logo img {
-  width: auto;
+  width: 60%;
   display: block;
   position: relative;
   left: 0;
-  top: 50%;
+  top: 75%;
   bottom: auto;
   -webkit-transform: translateY(-50%);
      -moz-transform: translateY(-50%);
